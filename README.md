@@ -1,1 +1,1 @@
-# DMC-former: a Deformable Multi-scale Transformer with Interaction Consistency for Human-Object Interaction Detection
+# ICDT: Maintaining Interaction Consistency for Deformable Transformer with Multi-scale Features in HOI Detection
